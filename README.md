@@ -1,4 +1,4 @@
-<h1>Hi, I'm CDR1138, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm CDR1138, an <a href="https://www.linkedin.com/in/cliff-rapelje-5224063b6/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
