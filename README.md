@@ -15,4 +15,4 @@
 
 [twitter]: https://twitter.com/CD1138
 [instagram]: https://www.instagram.com/CDR1138
-[linkedin]: [https://linkedin.com/in/CDR1138](https://www.linkedin.com/in/cliff-rapelje-5224063b6/)
+[linkedin]: https://www.linkedin.com/in/cliff-rapelje-5224063b6/
